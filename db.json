@@ -1,5 +1,5 @@
 {
-  "tableReservations" =:[
+  "tableReservations" :[
     { "tableReservationId": 1, "restaurantName": "Post 1" , "restaurantId" : 1 ,"userId" : 1 ,"tableId" : 1 ,"status" : "true" ,"bookingId" : 1  ,"bookingStart" : "02/12/2019","bookingEnd" : "02/12/2019"  },
     { "tableReservationId": 2, "restaurantName": "Hotel 1" , "restaurantId" : 2 ,"userId" :2 ,"tableId" : 1 ,"status" : "true" ,"bookingId" : 1  ,"bookingStart" : "02/12/2019","bookingEnd" : "02/12/2019"  }
      
